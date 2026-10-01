@@ -13,6 +13,8 @@
 ### 🛠️ Tools & Technologies
 <hr width="55%" align="left">
 
+<img align="right" width="300" src="https://i.pinimg.com/736x/a3/5d/4d/a35d4d7c437f5766e75fac848f106312.jpg" />
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
